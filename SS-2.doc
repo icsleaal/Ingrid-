@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SS-2] Como usuário desejo acessar á página na loja virtual a fim de visualizar o login de cadastro e redefinição de senha </title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://icsleal.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SS-2]&nbsp;<a href="https://icsleal.atlassian.net/browse/SS-2">Como usuário desejo acessar á página na loja virtual a fim de visualizar o login de cadastro e redefinição de senha </a>
+            <span class="subText">
+               Criado: 18/nov/22                   &nbsp;Atualizado(a): 23/nov/22
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Em andamento</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://icsleal.atlassian.net/secure/BrowseProject.jspa?id=10000">SwagLabs Shopping</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Highest
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="6377f80af6c85b343c07baeb"
+                id="word_reporter_6377f80af6c85b343c07baeb"
+                href="https://icsleal.atlassian.net/secure/ViewProfile.jspa?accountId=6377f80af6c85b343c07baeb">
+                    Ingrid Carolaine da Silva Leal
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="6377f80af6c85b343c07baeb"
+                id="word_assignee_6377f80af6c85b343c07baeb"
+                href="https://icsleal.atlassian.net/secure/ViewProfile.jspa?accountId=6377f80af6c85b343c07baeb">
+                    Ingrid Carolaine da Silva Leal
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10001-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Anexos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://icsleal.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Arquivo JPEG">
+                    Mind Map.jpg &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10001-value" class="value" bgcolor="#ffffff" width="80%">quadro Sprint 2</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10001-value" class="value" bgcolor="#ffffff" width="80%">      0|i00007:
+  </td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>1° <b>Valor</b> : A autenticação de usuário na loja virtual é importante para que os clientes possam se cadastrar na plataforma com segurança e fazer pedidos. Essa funcionalidade visa unificar o acesso ao site permitindo que o usuário possa se cadastrar ou fazer login na loja virtual. </p>
+
+<p>2° <b>Narrativa do usuário</b> </p>
+
+<p>   <b>Como</b> Cliente </p>
+
+<p><b>Eu quero</b>  acessar a página do login do usuário</p>
+
+<p><b>Para</b> visualizar opções de login cadastro e redefinições de senha na loja virtual</p>
+
+<p>3° <b>Requisitos</b> </p>
+
+<ul>
+	<li>Atores; Cliente</li>
+	<li>Interfaces; Ver documentos em anexo UI/UX.</li>
+	<li>Dados:</li>
+</ul>
+
+
+<p>      º Criação de banco de dados/ tabelas para armazenar informações dos clientes cadastrados;</p>
+
+<p>      º Criação de API para integração com front-end e banco criado.</p>
+
+<p>      º Criação de tabela de login para imprimir que usuário acesse página login de cadastro do usuário.</p>
+
+<ul>
+	<li>Plataforma/ Ambientes:</li>
+</ul>
+
+
+<p>     º Web/ Web Mobile</p>
+
+<p>     º Devem ser configurados ambiente e pipelines para desenvolvimento, homologação de usuário,</p>
+
+<p>      homologação QA e produção.</p>
+
+<ul>
+	<li>Critérios de aceite:</li>
+</ul>
+
+
+<p>     º Usuário deverá visualizar o formulário para fazer login e entrar na loja virtual.</p>
+
+<p>     º Usuário deverá visualizar botão para acessar tela de cadastro do sistema.</p>
+
+<p>     º Usuário deverá visualizar botão para acessar tela 'esqueci minha senha '.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Wed Nov 23 01:51:00 UTC 2022 por Ingrid Carolaine da Silva Leal usando JIRA 1001.0.0-SNAPSHOT#100210-sha1:eab5823fbe61ae61303baa14f059e2cc747a5b5a.
+
+</body>
+</html>

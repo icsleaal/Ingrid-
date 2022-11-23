@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10000</projectId>
+    <projectKey>SS</projectKey>
+    <exportDate>2022-11-23 01:54:26 UTC</exportDate>
+    <folders>
+        <folder fullPath="login" index="0"/>
+    </folders>
+    <testCases>
+        <testCase id="70370196" key="SS-T1">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Ingrid Carolaine da Silva Leal</createdBy>
+            <createdOn>2022-11-22 01:41:50 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[login]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Funcionalidade de login]]></name>
+            <objective><![CDATA[]]></objective>
+            <owner>6377f80af6c85b343c07baeb</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="plain">
+                <details><![CDATA[<ol><li>Cen&aacute;rio: Cliente sem cadastro deseja criar uma conta</li><li>Dado que o cliente esteja na tela de login</li><li>E n&atilde;o esteja cadastrado no sistema&nbsp;</li><li>Quando clicar em ' criar conta'</li><li>Ent&atilde;o ser&aacute; redirecionada para uma tela de cria&ccedil;&atilde;o de nova conta.</li></ol><br /><br />]]></details>
+            </testScript>
+        </testCase>
+        <testCase id="70506384" key="SS-T2">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Ingrid Carolaine da Silva Leal</createdBy>
+            <createdOn>2022-11-23 00:21:22 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[login]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Preencher formulário de cadastro]]></name>
+            <objective><![CDATA[<p>&ordm; Armazenar informa&ccedil;&otilde;es dos clientes cadastrados;</p><p>&ordm; Mostrar parte de Front-end como painel de dados personalizados.</p><p>&ordm; Cria&ccedil;&atilde;o de tabela de login para permitir que &oacute; usu&aacute;rio acesse p&aacute;gina login de cadastro do usu&aacute;rio.</p><p>&ordm; Usu&aacute;rio dever&aacute; visualizar o formul&aacute;rio para fazer login e entrar na loja virtual.</p><p>&ordm; Usu&aacute;rio dever&aacute; visualizar bot&atilde;o para acessar tela de cadastro do sistema.</p><p>&ordm; Usu&aacute;rio dever&aacute; visualizar bot&atilde;o para acessar tela 'esqueci minha senha '.</p><p>&ordm; Usu&aacute;rio dever&aacute; colocar o e-mail cadastrado e logo em seguida colocar o c&oacute;digo recebido pelo site para redefini&ccedil;&atilde;o de senha .</p><p>&ordm; Em seguida voltar para a tela inicial e colocar os danos junto com a nova senha para entrar no site&nbsp;</p><br />]]></objective>
+            <owner>6377f80af6c85b343c07baeb</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="plain">
+                <details><![CDATA[1&ordm; Entrar no site e ir para pagina inicial<br />2&ordm; Colocar os dados e senha e clicar no bot&atilde;o ' entrar'<br />3&ordm; Caso de erro ' colocar esqueci minha senha '<br />4&ordm; Colocar e-mail cadastrado<br />5&ordm;clicar em redefinir senha e cadastrar uma nova<br />6&ordm; Ap&oacute;s o cadastros da senha, voltar para a tela inicial<br />7&ordm; Na tela inicial, colocar e-mail e senha cadastrada<br />8&ordm; Apertar entrar e aproveitar o site .]]></details>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>
